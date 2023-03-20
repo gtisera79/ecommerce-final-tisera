@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "Server Torre Dell",
+		"imagen": "img/dell1.jpg",
+		"precio": "5000",
+		"detalles": ["16 GB RAM", "COLOR NEGRO", "256 GB DISCO SSD"]
+	},
+	{
+		"id": 2,
+		"marca": "Server rack Dell",
+		"imagen": "img/dell2.jpg",
+		"precio": "3000",
+		"detalles": ["16 GB RAM", "COLOR NEGRO", "1 TB DD"]
+	},
+	{
+		"id": 3,
+		"marca": "Storage Dell",
+		"imagen": "img/dell3.jpg",
+		"precio": "4000",
+		"detalles": ["16 GB RAM", "COLOR NEGRO", "1 TB DD"]
+	},
+	{
+		"id": 4,
+		"marca": "Server torre HPE",
+		"imagen": "img/hpe1.jpg",
+		"precio": "5900",
+		"detalles": ["8 GB RAM", "COLOR GOLD", "128 GB DD"]
+	},
+	{
+		"id": 5,
+		"marca": "Storage HPE",
+		"imagen": "img/hpe2.jpg",
+		"precio": "5769",
+		"detalles": ["8 GB RAM", "COLOR NEGRO", "256 GB DD"]
+	},
+	{
+		"id": 6,
+		"marca": "Server rack HPE",
+		"imagen": "img/hpe3.jpg",
+		"precio": "2599",
+		"detalles": ["16 GB RAM", "COLOR PLATEADO", "960 GB DD"]
+	},
+	{
+		"id": 7,
+		"marca": "Server rack Lenovo",
+		"imagen": "img/lenovo1.jpg",
+		"precio": "4299",
+		"detalles": ["16 GB RAM", "COLOR PLATEADO", "256 GB DD"]
+	},
+	{
+		"id": 8,
+		"marca": "Server rack Lenovo",
+		"imagen": "img/lenovo2.jpg",
+		"precio": "869",
+		"detalles": ["32 GB RAM", "COLOR PLATEADO", "64 GB DD"]
+	},
+	{
+		"id": 9,
+		"marca": "Storage Lenovo",
+		"imagen": "img/lenovo3.jpg",
+		"precio": "5397",
+		"detalles": ["16 GB RAM", "COLOR PLATEADO", "1 TB DD"]
+	}
+]
